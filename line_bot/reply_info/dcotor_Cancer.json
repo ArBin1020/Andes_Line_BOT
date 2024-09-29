@@ -1,0 +1,182 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG4.Eg1geGVaCiacZEfjQG_.?w=1024&h=1024&rs=1&pid=ImgDetMain",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "size": "full"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "陳阿紹 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 陳阿紹 癌症中心或癌症相關",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG4.71Q6EazA8YFX_kNm_.CC?w=1024&h=1024&rs=1&pid=ImgDetMain",
+              "aspectMode": "cover",
+              "size": "full",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "陳俊劭 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 陳俊劭 癌症中心或癌症相關",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG4.ohLyvNgSXC3_P9E08Sq6?pid=ImgGn",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "size": "full"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "阿劭 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 阿劭 癌症中心或癌症相關",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }

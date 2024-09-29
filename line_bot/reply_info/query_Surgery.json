@@ -1,0 +1,86 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG2.g8h21nJemHvM.yl5Wg8f?w=1024&h=1024&rs=1&pid=ImgDetMain",
+            "aspectMode": "cover",
+            "gravity": "center",
+            "flex": 1,
+            "size": "full"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "外科部與外科系統",
+                    "weight": "bold",
+                    "color": "#000000",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "外科部是醫院中負責進行外科手術的部門，專注於通過手術來治療各種疾病和創傷。外科系統包括多個專科，如普外科、心臟外科、神經外科等。"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "separator",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "外科醫師主要透過手術操作修復或移除病變組織，改善病患的健康狀況。",
+                        "size": "md"
+                      }
+                    ],
+                    "wrap": true
+                  }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "20px"
+              }
+            ],
+            "height": "180px"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

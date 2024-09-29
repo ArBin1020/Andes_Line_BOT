@@ -1,0 +1,182 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG1.yw.Yw74b8o7T_0BC2bNj?pid=ImgGn",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "林靝佑 醫師"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "datetimepicker",
+                  "label": "時段預約",
+                  "data": "預約時間 林靝佑 內科部與內科系統",
+                  "mode": "date",
+                  "min": "2024-09-01",
+                  "max": "2024-09-07",
+                  "initial": "2024-09-01"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG4.DBJugPusoWRwzwGRCCLU?pid=ImgGn",
+            "aspectMode": "cover",
+            "gravity": "top",
+            "size": "full",
+            "aspectRatio": "2:3"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "林佑佑 醫師"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "datetimepicker",
+                  "label": "時段預約",
+                  "data": "預約時間 林佑佑 內科部與內科系統",
+                  "mode": "date",
+                  "min": "2024-09-01",
+                  "max": "2024-09-07",
+                  "initial": "2024-09-01"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG4.tyU7PqUHfZsRp0Wc9Kd6?pid=ImgGn",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "林靝靝 醫師"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "datetimepicker",
+                  "label": "時段預約",
+                  "data": "預約時間 林靝靝 內科部與內科系統",
+                  "mode": "date",
+                  "min": "2024-09-01",
+                  "max": "2024-09-07",
+                  "initial": "2024-09-01"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}

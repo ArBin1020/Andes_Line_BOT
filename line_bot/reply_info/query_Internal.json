@@ -1,0 +1,86 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.cmuh.cmu.edu.tw/FileUploads/Dep_Banner/2019-05-15-17-18-05-48.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "flex": 1,
+            "gravity": "center"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "內科部與內科系統",
+                    "weight": "bold",
+                    "color": "#000000",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "內科部專注於診斷和治療涉及內臟器官的疾病，如心臟、肺部、腎臟等。它包含多個專科，例如心臟內科、腸胃內科、內分泌內科等。"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "separator",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "內科醫師主要運用藥物治療和其他非外科手段，提供全面的健康管理和病患照護。",
+                        "size": "md"
+                      }
+                    ],
+                    "wrap": true
+                  }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "offsetTop": "20px"
+              }
+            ],
+            "height": "180px"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

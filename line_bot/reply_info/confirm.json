@@ -1,0 +1,176 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "預約資訊確認",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "align": "center",
+        "color": "#1DB446"
+      },
+      {
+        "type": "text",
+        "text": "台中市北區三民路三段 資訊樓 7F",
+        "size": "sm",
+        "color": "#aaaaaa",
+        "wrap": true,
+        "align": "center"
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "預約醫師",
+                "size": "md",
+                "color": "#555555",
+                "flex": 0,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "暫存1",
+                "size": "md",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "預約科別",
+                "size": "md",
+                "color": "#555555",
+                "flex": 0,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "暫存2",
+                "size": "md",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "預約時間",
+                "size": "md",
+                "color": "#555555",
+                "flex": 0,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "暫存3",
+                "size": "md",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "病患名稱",
+                "size": "md",
+                "color": "#555555",
+                "flex": 0,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "暫存4",
+                "size": "md",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "身分證字號",
+                "size": "md",
+                "color": "#555555",
+                "flex": 0,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "暫存5",
+                "size": "md",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "margin": "md",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "確認預約",
+              "text": "確認預約"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "取消預約",
+              "text": "取消預約"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

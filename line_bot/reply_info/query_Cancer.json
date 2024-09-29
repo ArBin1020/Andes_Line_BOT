@@ -1,0 +1,86 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG4.g3cMrFs4qR8r4MKT9a0d?w=1024&h=1024&rs=1&pid=ImgDetMain",
+            "size": "full",
+            "aspectMode": "cover",
+            "flex": 1,
+            "gravity": "center"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "癌症中心與癌症相關",
+                    "weight": "bold",
+                    "color": "#000000",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": " 癌症中心是專門致力於癌症診斷、治療和研究的醫療機構。該中心通常整合了多學科團隊，包括腫瘤科醫師、放射科醫師、外科醫師和護理人員，提供綜合的癌症治療計劃。"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "separator",
+                "margin": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "sm",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "size": "md",
+                        "text": "癌症相關服務涵蓋了從早期篩檢、精確診斷、個性化治療到康復和支持性照護，旨在提升病患的生活品質和治療效果。"
+                      }
+                    ],
+                    "wrap": true
+                  }
+                ],
+                "spacing": "none",
+                "offsetTop": "20px",
+                "margin": "none"
+              }
+            ],
+            "height": "230px"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

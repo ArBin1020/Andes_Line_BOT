@@ -1,0 +1,182 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG3.j5YLBzXE_QCje4SbQmlU?w=1024&h=1024&rs=1&pid=ImgDetMain",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "size": "full"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "李亮亮 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 李亮亮 婦兒科系",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG2.8SdZXK70jeJDsaYzvlP5?pid=ImgGn",
+              "aspectMode": "cover",
+              "size": "full",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "李寬寬 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 李寬寬 婦兒科系",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "hecto",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://th.bing.com/th/id/OIG3.4bPDlOxgcsAURNM5v7Oa?pid=ImgGn",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "size": "full"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "weight": "bold",
+                      "color": "#ffffff",
+                      "align": "center",
+                      "text": "亮寬 醫師"
+                    }
+                  ]
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "datetimepicker",
+                    "label": "時段預約",
+                    "data": "預約時間 亮寬 婦兒科系",
+                    "mode": "date",
+                    "min": "2024-09-01",
+                    "max": "2024-09-07",
+                    "initial": "2024-09-01"
+                  },
+                  "color": "#ffffff"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#03303Acc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }

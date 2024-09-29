@@ -1,0 +1,261 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img.gx8899.com/allimg/160617/3-16061F03J1.jpg",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "內科部與內科系統"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "預約醫師",
+                  "text": "預約醫師 內科部與內科系統"
+                },
+                "color": "#ffffff"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "我要查詢",
+                  "text": "我要查詢 內科部與內科系統相關問題"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/10/18/0/14355918.jpg&x=0&y=0&sw=0&sh=0&exp=3600",
+            "aspectMode": "cover",
+            "gravity": "top",
+            "size": "full",
+            "aspectRatio": "2:3"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "外科部與外科系統"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "預約醫師",
+                  "text": "預約醫師 外科部與外科系統"
+                },
+                "color": "#ffffff"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "我要查詢",
+                  "text": "我要查詢 外科部與外科系統相關問題"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.nb120.com/UploadFiles/2020-04-06/15861632996257887.jpg",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "婦兒科系"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "預約醫師",
+                  "text": "預約醫師 婦兒系統"
+                },
+                "color": "#ffffff"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "我要查詢",
+                  "text": "我要查詢 婦兒科系相關問題"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "hecto",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://video.akailibrary.com/kai/210203/02/02/03/jpg/00013-%E5%8D%A1%E9%80%9A%E5%8C%BB%E7%94%9F%E5%92%8C%E7%97%85%E4%BA%BA%E5%9C%A8%E5%8C%BB%E9%99%A2%E6%B2%9F%E9%80%9A%E7%97%85%E6%83%85%E5%8C%BB%E5%AD%A6%E6%A6%82%E5%BF%B5%E8%AE%BE%E8%AE%A1-4.jpg",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "size": "full"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "size": "xl",
+                    "weight": "bold",
+                    "color": "#ffffff",
+                    "align": "center",
+                    "text": "癌症中心或癌症相關"
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "預約醫師",
+                  "text": "預約醫師 癌症中心或癌症相關"
+                },
+                "color": "#ffffff"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "我要查詢",
+                  "text": "我要查詢 癌症中心或癌症相關問題"
+                },
+                "color": "#ffffff"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}

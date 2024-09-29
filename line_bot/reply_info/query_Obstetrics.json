@@ -1,0 +1,61 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://th.bing.com/th/id/OIG4.yU5w_IrEXBOLP6OO2O07?w=1024&h=1024&rs=1&pid=ImgDetMain",
+            "size": "full",
+            "aspectMode": "cover",
+            "gravity": "center",
+            "flex": 1
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "婦兒科系",
+                    "weight": "bold",
+                    "color": "#000000",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": " 婦兒科系統專注於女性和兒童的健康照護。婦科部負責診斷和治療與女性生殖系統相關的疾病，如月經問題、懷孕管理和婦科腫瘤。兒科部則專注於兒童的健康問題，包括預防接種、生長發育以及常見兒童疾病的診斷與治療。這兩個科系協作，確保從出生到成年階段的全面健康管理。"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              }
+            ],
+            "height": "165px"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}

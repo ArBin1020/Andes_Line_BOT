@@ -1,0 +1,79 @@
+{
+    "type": "bubble",
+    "size": "micro",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "選擇預約時段",
+          "weight": "bold",
+          "size": "xl",
+          "align": "center"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "postback",
+                "label": "上午",
+                "data": "預約時段選擇 上午"
+              },
+              "color": "#ffffff"
+            }
+          ],
+          "backgroundColor": "#008B8B"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "postback",
+                "label": "中午",
+                "data": "預約時段選擇 中午"
+              },
+              "color": "#ffffff"
+            }
+          ],
+          "backgroundColor": "#008B8B"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "style": "link",
+              "height": "sm",
+              "action": {
+                "type": "postback",
+                "label": "晚上",
+                "data": "預約時段選擇 晚上"
+              },
+              "color": "#ffffff"
+            }
+          ],
+          "backgroundColor": "#008B8B"
+        }
+      ],
+      "flex": 0
+    }
+  }
